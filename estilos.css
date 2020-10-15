@@ -1,0 +1,106 @@
+
+
+@font-face{
+    font-family: mifuente;
+    src: url(../Fonts/mifuente.ttf);
+    }
+    
+    h2{
+        font-family: mifuente !important;
+    }
+    
+    @font-face{
+        font-family: Amelya;
+        src: url(../Fonts/Amelya.ttf);
+    }
+    
+    h1{
+        font-family: Amelya !important;
+        font-size: 50px;
+    }
+    .btn-primary{
+        background: #3eb7af !important;
+        outline: none;
+        box-shadow: none;
+        border: 0;
+    }
+    
+    .btn-primary:active{
+        background: #3eb7af !important;
+        outline: none;
+        box-shadow: none;
+        border: 0;
+    }
+    
+    .btn-primary:focus{
+        background: #3eb7af !important;
+        outline: none;
+        box-shadow: none;
+        border: 0;
+    }
+    
+    .bg-primary-2{
+        background: #4d1735;
+    }
+    
+    .py-6{
+        padding-top: 8rem! important;
+        padding-bottom: 5rem! important;
+    }
+    
+    .text-violet{
+        color: #4d1735;
+    }
+    
+    .bt-primary{
+        background: #ffff;
+    }
+    
+    .text-primary{
+        color: #3eb7af !important;
+    }
+    
+    #galeria .col-lg-4{
+        margin: 0 !important;
+        padding: 25px;
+    }
+    
+    #galeria img{
+        width: 100%;
+        height: 250px;
+    }
+    
+    #galeria img:hover{
+        border: 5px solid #ffff;
+    }
+    
+    .bg-primary-3{
+        background: rgba(62, 183, 175, 0.5);
+    }
+    
+    .btnF{
+        float: right;
+    }
+    
+    .SP{
+        height: auto;
+        width: 15%;
+    }
+    
+    .flex-item{
+        order: 1;
+    }
+    
+    .flex-item-1{
+        order: 0;
+    }
+    
+    .banner{
+        border: 2px solid #ee82ee1f;
+    
+    }
+    
+    .margin{
+        margin-top: 72px;
+    }
+        
